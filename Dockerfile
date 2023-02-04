@@ -1,7 +1,7 @@
 FROM alpine:3.16
 LABEL org.opencontainers.image.authors="xkww3n"
 
-ENV POWERDNS_VERSION=4.6.3 \
+ENV POWERDNS_VERSION=4.6.4 \
     MYSQL_DEFAULT_AUTOCONF=true \
     MYSQL_DEFAULT_HOST="mysql" \
     MYSQL_DEFAULT_PORT="3306" \
